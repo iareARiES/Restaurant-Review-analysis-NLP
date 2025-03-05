@@ -3,7 +3,7 @@
 ## 📖 Important Note
 For a **better understanding** of the project, please check the **Google Colab file** 📄 uploaded in this repository. It contains **detailed explanations and execution steps** to help you grasp the workflow more effectively.
 
-##About
+**##About**
 This repository contains a sentiment analysis project using Natural Language Processing (NLP) and a Naive Bayes classifier to classify restaurant reviews as positive 👍 or negative 👎.
 
 ## 🔍 Overview
